@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600&display=swap');
+
+.main {
+    /* margin-right:50%; */
+    /* margin-right:50%; */
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom:20%;
+}
+
+* {
+    font-family: 'Instrument Sans', sans-serif;
+
+    /* border:2px black solid; */
+}
+
+.sub {
+    padding: .5%;
+    display: block;
+    margin-left: 47.5%;
+    margin-top: 1%;
+}
+
+.main p {
+    font-size: 150%;
+    color: #fff;
+    text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+body {
+    background-image: linear-gradient(to right,#2b1df2, #ff0000);
+}
